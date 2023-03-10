@@ -1,0 +1,128 @@
+.input {
+  width: 98%;
+  height: 32px;
+  border: solid 1px #cccc;
+  border-radius: 4px;
+  padding-left: 10px;
+}
+
+.container{
+	width: 100%;
+	height: 100%;
+	margin: 0 auto;
+	background-color:  #cccc;
+}
+.container-main{
+		margin: 0 auto;
+		width: 50%;
+}
+.panda-img{
+	width: 100%;
+	height: 300px;
+}
+.heading1{
+	width: 100%;
+	display: flex;
+	justify-content: center;
+
+}
+.heading1 div{
+	margin-top: 12px;
+	width: 33.33%;
+	text-align: center;
+	font-weight: 600;
+
+}
+.div1{
+	border-right: 1px solid black;
+}
+.container-main-bottom{
+	background-color: wheat;
+}
+.heading2-h2{
+  font-size: 24px;
+  font-weight: 400;
+  padding-left: 15px;
+}
+.bottom{
+ font-weight: 200;
+  padding-left: 15px;
+  text-align: right;
+  height: 55px;
+  line-height: 55px;
+  margin-right: 23px;
+}
+.heading2-1{
+	display: flex;
+
+}
+.heading2-img2{
+	width: 200px;
+	height: 200px;
+	margin-left: 12px;
+}
+.heading2-text{
+	width: 71%;
+	margin-left: 16px;
+	font-weight: 200;
+}
+.heading2-text2{
+	margin-left: 12px;
+	font-weight: 200;
+	width: 90%;
+}
+.heading3-tr{
+	border: 2px solid #cccc;
+	padding: 12px;
+	width: 95%;
+	margin: 0 auto;
+	height: 463px;
+	position: relative;
+	border-radius: 12px;
+}
+.heading3-tr{
+	display: flex;
+	flex-direction: column;
+}
+.text{
+	font-weight: 200;
+}
+
+.td-top{
+	width: 120px;
+	text-align: right;
+	height: 45px;
+
+}
+.heading3-tr tr{
+	height: 100px;
+}
+.td-bottom1{
+	display: flex;
+}
+.label{
+	width: 100px;
+	position: absolute;
+}
+.input1{
+	height: 100px;
+}
+.btn{
+	    width: 58px;
+		height: 35px;
+		margin-top: 36px;
+}
+.label1{
+	position: absolute;
+	bottom: 67px;
+}
+.label2{
+	position: absolute;
+	bottom: 67px;
+	left: 75px;
+}
+.label3{
+	position: absolute;
+	bottom: 67px;
+	left: 138px;
+}
